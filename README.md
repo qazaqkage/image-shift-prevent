@@ -12,7 +12,7 @@ This repository contains Python code for preventing image shifting using various
 
 1. Clone the repository:
 
-git clone https://github.com/your_username/image-shifting-prevention.git
+git clone https://github.com/qazaqkage/image-shifting-prevention.git
 
 markdown
 
@@ -30,4 +30,4 @@ shell
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Mozilla Public License 2.0. See the [LICENSE](https://github.com/qazaqkage/image-shift-prevent/blob/master/LICENSE) file for details.
