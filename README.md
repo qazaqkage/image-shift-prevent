@@ -14,7 +14,6 @@ This repository contains Python code for preventing image shifting using various
 
 git clone https://github.com/qazaqkage/image-shifting-prevention.git
 
-markdown
 
 
 2. Install the required dependencies:
